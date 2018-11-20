@@ -3,9 +3,12 @@ html {
 }
 
 body {
-  background-color: black;   
+  background-color: black;
 }
 
+#test{
+  color: white;
+}
 .instrument {
   height: 10rem;
   width: 60rem;
